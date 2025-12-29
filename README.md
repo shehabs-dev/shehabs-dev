@@ -3,6 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
+
+
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"></p>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&height=100&lines=Mobile+Flutter+Developer;Clean+Architecture+%7C+BLoC+%7C+Firebase;Continuously+learning+and+improving+%F0%9F%92%BB%E2%9C%A8" alt="Typing SVG" /></a>
 
 Flutter Developer building scalable, maintainable, and production-ready applications.  

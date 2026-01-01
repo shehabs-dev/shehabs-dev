@@ -44,11 +44,13 @@ I specialize in clean architecture, BLoC state management, and long‑term code 
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green?style=for-the-badge)
 
-
 ---
 
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shehabs-dev&layout=compact)
+### <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="25"> Github Stats
+
+<img 
+  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shehabs-dev&theme=monokai" 
+  alt="Profile Details" width="100%">
 
 <br>
 <a href="https://komarev.com/ghpvc/?username=shehabs-dev&style=for-the-badge">

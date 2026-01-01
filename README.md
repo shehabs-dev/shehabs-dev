@@ -28,11 +28,9 @@ I specialize in clean architecture, BLoC state management, and long‑term code 
 ---
 
 ### 📫 Connect With Me
-<p>
-  <a href="https://linkedin.com/in/shehab-saber-a78746355">
-    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shehab-saber-a78746355)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=shehab.saber.dev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201116501265)
 
 ---
 

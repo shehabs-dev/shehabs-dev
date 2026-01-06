@@ -63,7 +63,6 @@ I specialize in clean architecture, BLoC state management, and long‑term code 
 ### 🏗️ Software Architecture & Patterns
 - Clean Architecture (separation of concerns, maintainability, scalability)  
 - MVVM (Model–View–ViewModel)  
-- BLoC (Business Logic Component for state management)  
 
 ---
 

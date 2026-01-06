@@ -34,28 +34,63 @@ I specialize in clean architecture, BLoC state management, and long‑term code 
 
 ---
 
-### 🛠 Technologies I Work With
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
-![BLoC](https://img.shields.io/badge/State%20Management-BLoC-purple?style=for-the-badge) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+### 🛠 Tech Stack
 
+#### 💻 Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### 📱 Frameworks & Libraries
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+![BLoC](https://img.shields.io/badge/State%20Management-BLoC-purple?style=for-the-badge) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
+![Sqflite](https://img.shields.io/badge/Sqflite-02569B?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### 🗄 Databases
+![Firebase Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
-![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green?style=for-the-badge)
+![pub.dev](https://img.shields.io/badge/pub.dev-Packages-blue?style=for-the-badge&logo=dart&logoColor=white)  
+![Android](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android&logoColor=white) 
+![iOS](https://img.shields.io/badge/Platform-iOS-black?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
-### <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="25"> Github Stats
+### 🏗️ Software Architecture & Patterns
+- Clean Architecture (separation of concerns, maintainability, scalability)  
+- MVVM (Model–View–ViewModel)  
+- BLoC (Business Logic Component for state management)  
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
 
 <img 
   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shehabs-dev&theme=monokai" 
   alt="Profile Details" width="100%">
 
 <br>
+
+<img 
+  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shehabs-dev&theme=monokai" 
+  alt="Stats" width="300px"> 
+<img 
+  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shehabs-dev&theme=monokai" 
+  alt="Repos Per Language" width="300px">
+
+<br>
+
 <a href="https://komarev.com/ghpvc/?username=shehabs-dev&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=shehabs-dev&style=for-the-badge&color=blueviolet">
 </a>
+
+</div>
 
 ---
 

@@ -73,9 +73,6 @@ I specialize in clean architecture, BLoC state management, and long‑term code 
 <img 
   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shehabs-dev&theme=monokai" 
   alt="Profile Details" width="100%">
-
-<br>
-
 <img 
   src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shehabs-dev&theme=monokai" 
   alt="Stats" width="300px"> 
@@ -93,4 +90,4 @@ I specialize in clean architecture, BLoC state management, and long‑term code 
 
 ---
 
-💡 Open to collaboration on Flutter projects and clean architecture discussions.
+💡 Open to collaboration, learning opportunities, and building meaningful software.

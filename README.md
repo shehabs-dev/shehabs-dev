@@ -10,13 +10,15 @@
 ---
 
 ### 👨‍💻 About Me
-Flutter developer focused on building scalable, maintainable, and production‑ready applications.  
-I specialize in clean architecture, BLoC state management, and long‑term code quality.
+Flutter developer focused on building scalable, maintainable, and production-ready applications.  
+I specialize in clean architecture, BLoC state management, and writing high-quality, maintainable code.
 
-- Building scalable mobile apps with Flutter  
-- Applying Clean Architecture in projects  
-- Designing Firebase‑backed & offline‑first apps  
-- Improving code readability and maintainability  
+I also have foundational experience with HTML, CSS, and Python, and have explored machine learning fundamentals using NumPy, Pandas, and scikit-learn through data analysis projects.
+
+- Building scalable mobile applications with Flutter  
+- Applying Clean Architecture principles in real projects  
+- Designing Firebase-backed and offline-first apps  
+- Improving code readability, structure, and long-term maintainability  
 
 ---
 
@@ -24,6 +26,7 @@ I specialize in clean architecture, BLoC state management, and long‑term code 
 - Deepen Flutter expertise  
 - Contribute to open‑source Flutter projects  
 - Build advanced, cross‑platform applications with clean architecture  
+- Explore integrating machine learning concepts into mobile apps for data-driven and intelligent features
 
 ---
 
@@ -40,6 +43,8 @@ I specialize in clean architecture, BLoC state management, and long‑term code 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### 📱 Frameworks & Libraries
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
@@ -50,6 +55,11 @@ I specialize in clean architecture, BLoC state management, and long‑term code 
 #### 🗄 Databases
 ![Firebase Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 📊 Machine Learning & Data (Foundational)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 #### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 

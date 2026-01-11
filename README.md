@@ -13,7 +13,7 @@
 Flutter developer focused on building scalable, maintainable, and production-ready applications.  
 I specialize in clean architecture, BLoC state management, and writing high-quality, maintainable code.
 
-I also have foundational experience with HTML, CSS, and Python, and have explored machine learning fundamentals using NumPy, Pandas, and scikit-learn through data analysis projects.
+I also have foundational experience with Python, and have explored machine learning fundamentals using NumPy, Pandas, and scikit-learn through data analysis projects.
 
 - Building scalable mobile applications with Flutter  
 - Applying Clean Architecture principles in real projects  
@@ -43,8 +43,6 @@ I also have foundational experience with HTML, CSS, and Python, and have explore
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### 📱 Frameworks & Libraries
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 

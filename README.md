@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&height=100&lines=Mobile+Flutter+Developer;Clean+Architecture+%7C+BLoC+%7C+Firebase;Continuously+learning+and+improving+%F0%9F%92%BB%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&height=100&lines=Flutter+Developer;Clean+Architecture+%7C+BLoC+%7C+Firebase;Continuously+learning+and+improving+%F0%9F%92%BB%E2%9C%A8" alt="Typing SVG" /></a>
 
 ---
 
@@ -16,17 +16,17 @@ I specialize in clean architecture, BLoC state management, and writing high-qual
 I also have foundational experience with Python, and have explored machine learning fundamentals using NumPy, Pandas, and scikit-learn through data analysis projects.
 
 - Building scalable mobile applications with Flutter  
-- Applying Clean Architecture principles in real projects  
+- Applying clean architecture principles in real projects  
 - Designing Firebase-backed and offline-first apps  
 - Improving code readability, structure, and long-term maintainability  
 
 ---
 
 ### 🎯 Future Goals
-- Deepen Flutter expertise  
-- Contribute to open‑source Flutter projects  
-- Build advanced, cross‑platform applications with clean architecture  
-- Explore integrating machine learning concepts into mobile apps for data-driven and intelligent features
+- Deepen expertise in Flutter  
+- Contribute to open-source Flutter projects  
+- Build advanced cross-platform applications using clean architecture  
+- Explore integrating machine learning into mobile apps for data-driven features  
 
 ---
 

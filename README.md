@@ -22,14 +22,41 @@ I also have foundational experience with Python and have explored machine learni
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[MyMap](https://github.com/shehabs-dev/flutter-map-app)** | Interactive map viewer with real-time location tracking, place search autocomplete, and marker management. Features live device location, interactive OpenStreetMap tiles, and Geoapify integration. | Flutter, Geolocator, OpenStreetMap, Geoapify API, Lottie |
-| **[Car Price Prediction](https://github.com/shehabs-dev/car-price-prediction-ml)** | End-to-end ML project with Streamlit web UI for interactive car price predictions. Includes EDA, feature engineering, model training with scikit-learn, and reproducible pipeline with joblib artifacts. | Python, Pandas, NumPy, scikit-learn, Streamlit, Jupyter |
-| **[Clean Architecture Posts](https://github.com/shehabs-dev/flutter-clean-architecture-posts)** | Production-ready Flutter example of clean architecture principles. Demonstrates BLoC state management, repository pattern, dependency injection, and offline support with local caching. | Flutter, BLoC, GetIt, SharedPreferences, HTTP |
-| **[Flutter Notes](https://github.com/shehabs-dev/flutter-notes)** | Feature-rich notes application with local SQLite storage, rich text editing with Flutter Quill, staggered grid UI, and clean architecture patterns. Multi-language support with intl. | Flutter, BLoC, Sqflite, Flutter Quill, Go Router, GetIt |
+### 🗺️ MyMap
+Flutter map viewer with live location tracking, place search autocomplete, and interactive marker management using OpenStreetMap and Geoapify API.
+
+**Highlights:**
+- Real-time geolocation with permission handling and responsive UI scaling
+- Integration with external geocoding API for place search functionality
+- Cross-platform support (Android/iOS) with Lottie animations for UX feedback
+
+**Tech Stack:** Flutter, Geolocator, flutter_map, Geoapify API, flutter_screenutil
+
+---
+
+### 📝 Flutter Notes
+Clean Architecture notes app with SQLite persistence, rich text editing, and customizable theme/language settings via centralized design system.
+
+**Highlights:**
+- Feature-based architecture with BLoC state management and dependency injection (GetIt)
+- Scalable design system with single-file rebranding capability
+- Use case abstraction layer separating business logic from UI
+
+**Tech Stack:** Flutter, BLoC, Sqflite, Go Router, GetIt, Flutter Quill
+
+---
+
+### 🏗️ Clean Architecture Posts
+Reference implementation demonstrating clean architecture patterns with layered separation (presentation/domain/data), offline caching, and network state awareness.
+
+**Highlights:**
+- Three-layer architecture with repository pattern and use case abstractions
+- BLoC state management with connectivity-aware data fetching
+- Dependency injection with GetIt for loosely coupled components
+
+**Tech Stack:** Flutter, BLoC, GetIt, SharedPreferences, HTTP, FPDart
 
 ---
 
@@ -53,6 +80,8 @@ I also have foundational experience with Python and have explored machine learni
 #### 💻 Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### 📱 Mobile & Frameworks
@@ -60,6 +89,7 @@ I also have foundational experience with Python and have explored machine learni
 ![BLoC](https://img.shields.io/badge/State%20Management-BLoC-purple?style=for-the-badge) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
 ![Sqflite](https://img.shields.io/badge/Sqflite-02569B?style=for-the-badge&logo=sqlite&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FFC900?style=for-the-badge&logoColor=white)
 
 #### 📊 Machine Learning & Data (Foundational)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)

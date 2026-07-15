@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&height=100&lines=Flutter+Developer;Clean+Architecture+%7C+BLoC+%7C+Firebase;Continuously+learning+and+improving+%F0%9F%92%BB%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&height=100&lines=Flutter+Developer;Clean+Architecture;State+Management+with+BLoC"></a>
 
 ---
 
@@ -19,6 +19,16 @@ I also have foundational experience with Python and have explored machine learni
 - Applying clean architecture principles in real projects  
 - Designing Firebase-backed and offline-first apps  
 - Improving code readability, structure, and long-term maintainability  
+
+---
+
+### 🚀 Featured Flutter Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **[MyMap](https://github.com/shehabs-dev/flutter-map-app)** | A lightweight Flutter map viewer with location tracking, place search, and marker management. Features live device location, interactive map tiles, and Geoapify integration. | Flutter, Geolocator, OpenStreetMap, Geoapify API |
+| **[Clean Architecture Posts](https://github.com/shehabs-dev/flutter-clean-architecture-posts)** | Production-ready example of clean architecture in Flutter. Demonstrates BLoC state management, repository pattern, dependency injection, and offline support with local caching. | Flutter, BLoC, GetIt, SharedPreferences, HTTP |
+| **[Flutter Notes](https://github.com/shehabs-dev/flutter-notes)** | Feature-rich notes application with local SQLite storage, rich text editing with Quill, and clean architecture patterns. Built with BLoC and staggered grid UI. | Flutter, BLoC, Sqflite, Flutter Quill, Go Router |
 
 ---
 
@@ -71,6 +81,8 @@ I also have foundational experience with Python and have explored machine learni
 ### 🏗️ Software Architecture & Patterns
 - Clean Architecture (separation of concerns, maintainability, scalability)  
 - MVVM (Model–View–ViewModel)  
+- Repository Pattern with Dependency Injection  
+- BLoC Pattern for State Management
 
 ---
 

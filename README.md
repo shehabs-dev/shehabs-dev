@@ -46,7 +46,7 @@ I'm currently focused on strengthening my software engineering skills and plan t
 Production-ready Flutter application for AI-powered plant disease diagnosis, combining on-device TensorFlow Lite inference with Retrieval-Augmented Generation (RAG) to provide intelligent recommendations while supporting offline-first workflows.
 
 **Highlights**
-- Clean Architecture with feature-first modular design and dependency injection
+- Clean Architecture with feature-based modular design and dependency injection
 - On-device TensorFlow Lite inference with optimized AI pipeline
 - Offline-first architecture with encrypted local storage and automatic cloud synchronization
 - AI-assisted disease diagnosis using TensorFlow Lite and Retrieval-Augmented Generation (RAG)

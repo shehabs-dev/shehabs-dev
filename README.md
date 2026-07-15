@@ -69,7 +69,7 @@ A Flutter project focused on applying Clean Architecture principles and maintain
 ### 🎯 Future Goals
 - Deepen expertise in Flutter  
 - Contribute to open-source Flutter projects  
-- Build advanced cross-platform applications using clean architecture  
+- Learn native Android development with Kotlin
 - Explore integrating machine learning into mobile apps for data-driven features  
 
 ---
@@ -118,10 +118,7 @@ A Flutter project focused on applying Clean Architecture principles and maintain
 ---
 
 ### 🏗️ Software Architecture & Patterns
-- Clean Architecture (separation of concerns, maintainability, scalability)  
-- MVVM (Model–View–ViewModel)  
-- Repository Pattern with Dependency Injection  
-- BLoC Pattern for State Management
+- Clean Architecture (separation of concerns, maintainability, scalability)
 
 ---
 

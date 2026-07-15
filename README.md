@@ -5,38 +5,39 @@
 
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&height=100&lines=Flutter+Developer;Clean+Architecture;State+Management+with+BLoC"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&height=100&lines=Flutter+Developer;ML+Engineer;Clean+Architecture;Building+Scalable+Apps"></a>
 
 ---
 
 ### 👨‍💻 About Me
-Flutter developer focused on building scalable and production-ready applications.  
-I specialize in clean architecture, BLoC state management, and writing high-quality code.
-
-I also have foundational experience with Python and have explored machine learning fundamentals using NumPy, Pandas, and scikit-learn through data analysis projects.
+Full-stack developer focused on building scalable, production-ready applications with clean architecture principles.  
+I specialize in **Flutter mobile development**, **BLoC state management**, and **machine learning** for real-world applications.
 
 - Building scalable mobile applications with Flutter  
 - Applying clean architecture principles in real projects  
 - Designing Firebase-backed and offline-first apps  
+- Developing machine learning models with Python (NumPy, Pandas, scikit-learn)  
 - Improving code readability, structure, and long-term maintainability  
 
 ---
 
-### 🚀 Featured Flutter Projects
+### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **[MyMap](https://github.com/shehabs-dev/flutter-map-app)** | A lightweight Flutter map viewer with location tracking, place search, and marker management. Features live device location, interactive map tiles, and Geoapify integration. | Flutter, Geolocator, OpenStreetMap, Geoapify API |
-| **[Clean Architecture Posts](https://github.com/shehabs-dev/flutter-clean-architecture-posts)** | Production-ready example of clean architecture in Flutter. Demonstrates BLoC state management, repository pattern, dependency injection, and offline support with local caching. | Flutter, BLoC, GetIt, SharedPreferences, HTTP |
-| **[Flutter Notes](https://github.com/shehabs-dev/flutter-notes)** | Feature-rich notes application with local SQLite storage, rich text editing with Quill, and clean architecture patterns. Built with BLoC and staggered grid UI. | Flutter, BLoC, Sqflite, Flutter Quill, Go Router |
+| **[Clean Architecture Posts](https://github.com/shehabs-dev/flutter-clean-architecture-posts)** | Production-ready Flutter example of clean architecture principles. Demonstrates BLoC state management, repository pattern, dependency injection, and offline support with local caching. | Flutter, BLoC, GetIt, SharedPreferences, HTTP |
+| **[Flutter Notes](https://github.com/shehabs-dev/flutter-notes)** | Feature-rich notes application with local SQLite storage, rich text editing with Flutter Quill, staggered grid UI, and clean architecture patterns. Multi-language support with intl. | Flutter, BLoC, Sqflite, Flutter Quill, Go Router, GetIt |
+| **[MyMap](https://github.com/shehabs-dev/flutter-map-app)** | Interactive map viewer with real-time location tracking, place search autocomplete, and marker management. Features live device location, interactive OpenStreetMap tiles, and Geoapify integration. | Flutter, Geolocator, OpenStreetMap, Geoapify API, Lottie |
+| **[Car Price Prediction](https://github.com/shehabs-dev/car-price-prediction-ml)** | End-to-end ML project with Streamlit web UI for interactive car price predictions. Includes EDA, feature engineering, model training with scikit-learn, and reproducible pipeline with joblib artifacts. | Python, Pandas, NumPy, scikit-learn, Streamlit, Jupyter |
 
 ---
 
 ### 🎯 Future Goals
-- Deepen expertise in Flutter  
-- Contribute to open-source Flutter projects  
+- Deepen expertise in Flutter and mobile development  
+- Contribute to open-source Flutter and ML projects  
 - Build advanced cross-platform applications using clean architecture  
 - Explore integrating machine learning into mobile apps for data-driven features  
+- Develop production-grade ML pipelines with MLOps best practices  
 
 ---
 
@@ -54,20 +55,21 @@ I also have foundational experience with Python and have explored machine learni
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 📱 Frameworks & Libraries
+#### 📱 Mobile & Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 ![BLoC](https://img.shields.io/badge/State%20Management-BLoC-purple?style=for-the-badge) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
 ![Sqflite](https://img.shields.io/badge/Sqflite-02569B?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### 🗄 Databases
-![Firebase Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### 📊 Machine Learning & Data (Foundational)
+#### 📊 Machine Learning & Data
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+#### 🗄 Databases
+![Firebase Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
@@ -75,6 +77,7 @@ I also have foundational experience with Python and have explored machine learni
 ![pub.dev](https://img.shields.io/badge/pub.dev-Packages-blue?style=for-the-badge&logo=dart&logoColor=white)  
 ![Android](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android&logoColor=white) 
 ![iOS](https://img.shields.io/badge/Platform-iOS-black?style=for-the-badge&logo=apple&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -82,7 +85,8 @@ I also have foundational experience with Python and have explored machine learni
 - Clean Architecture (separation of concerns, maintainability, scalability)  
 - MVVM (Model–View–ViewModel)  
 - Repository Pattern with Dependency Injection  
-- BLoC Pattern for State Management
+- BLoC Pattern for State Management  
+- Machine Learning Pipelines & Data Processing
 
 ---
 

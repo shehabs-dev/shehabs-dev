@@ -25,44 +25,44 @@ I also have foundational experience with Python and have explored machine learni
 ## 🚀 Featured Projects
 
 ### 🗺️ MyMap
-Flutter map viewer with live location tracking, place search autocomplete, and interactive marker management using OpenStreetMap and Geoapify API.
+Flutter map application with live location tracking, place search, and interactive markers using OpenStreetMap.
 
 **Highlights:**
-- Real-time geolocation with permission handling and responsive UI scaling
-- Integration with external geocoding API for place search functionality
-- Cross-platform support (Android/iOS) with Lottie animations for UX feedback
+- Real-time geolocation and permission handling
+- Geoapify integration for place search
+- Responsive cross-platform UI
 
-**Tech Stack:** Flutter, Geolocator, flutter_map, Geoapify API, flutter_screenutil
+**Tech Stack:** Flutter · Geolocator · flutter_map · Geoapify API
 
-**Repository:** [github.com/shehabs-dev/flutter-map-app](https://github.com/shehabs-dev/flutter-map-app)
+[Repository](https://github.com/shehabs-dev/flutter-map-app)
 
 ---
 
 ### 📝 Flutter Notes
-Clean Architecture notes app with SQLite persistence, rich text editing, and customizable theme/language settings via centralized design system.
+A notes application built with Clean Architecture, local persistence, and a scalable Flutter design system.
 
 **Highlights:**
-- Feature-based architecture with BLoC state management and dependency injection (GetIt)
-- Scalable design system with single-file rebranding capability
-- Use case abstraction layer separating business logic from UI
+- Feature-based architecture with BLoC and dependency injection
+- SQLite storage with rich text editing
+- Centralized theming and localization system
 
-**Tech Stack:** Flutter, BLoC, Sqflite, Go Router, GetIt, Flutter Quill
+**Tech Stack:** Flutter · BLoC · Sqflite · GetIt · Go Router · Flutter Quill
 
-**Repository:** [github.com/shehabs-dev/flutter-notes](https://github.com/shehabs-dev/flutter-notes)
+[Repository](https://github.com/shehabs-dev/flutter-notes)
 
 ---
 
 ### 🏗️ Clean Architecture Posts
-Reference implementation demonstrating clean architecture patterns with layered separation (presentation/domain/data), offline caching, and network state awareness.
+A Flutter project focused on applying Clean Architecture principles and maintainable software design.
 
 **Highlights:**
-- Three-layer architecture with repository pattern and use case abstractions
-- BLoC state management with connectivity-aware data fetching
-- Dependency injection with GetIt for loosely coupled components
+- Separation of presentation, domain, and data layers
+- Repository pattern with use cases
+- Offline caching and network state handling
 
-**Tech Stack:** Flutter, BLoC, GetIt, SharedPreferences, HTTP, FPDart
+**Tech Stack:** Flutter · BLoC · GetIt · SharedPreferences · HTTP · FPDart
 
-**Repository:** [github.com/shehabs-dev/flutter-clean-architecture-posts](https://github.com/shehabs-dev/flutter-clean-architecture-posts)
+[Repository](https://github.com/shehabs-dev/flutter-clean-architecture-posts)
 
 ---
 

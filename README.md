@@ -10,8 +10,8 @@
 ---
 
 ### 👨‍💻 About Me
-Flutter developer focused on building scalable and production-ready applications.  
-I specialize in clean architecture, BLoC state management, and writing high-quality code.
+Flutter developer with 1.5+ years of hands-on experience building scalable, production-ready applications.
+I specialize in clean architecture, BLoC state management, and writing high-quality, maintainable code.
 
 I also have foundational experience with Python and have explored machine learning fundamentals using NumPy, Pandas, and scikit-learn through data analysis projects.
 

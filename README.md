@@ -34,6 +34,8 @@ Flutter map viewer with live location tracking, place search autocomplete, and i
 
 **Tech Stack:** Flutter, Geolocator, flutter_map, Geoapify API, flutter_screenutil
 
+**Repository:** [github.com/shehabs-dev/flutter-map-app](https://github.com/shehabs-dev/flutter-map-app)
+
 ---
 
 ### 📝 Flutter Notes
@@ -46,6 +48,8 @@ Clean Architecture notes app with SQLite persistence, rich text editing, and cus
 
 **Tech Stack:** Flutter, BLoC, Sqflite, Go Router, GetIt, Flutter Quill
 
+**Repository:** [github.com/shehabs-dev/flutter-notes](https://github.com/shehabs-dev/flutter-notes)
+
 ---
 
 ### 🏗️ Clean Architecture Posts
@@ -57,6 +61,8 @@ Reference implementation demonstrating clean architecture patterns with layered 
 - Dependency injection with GetIt for loosely coupled components
 
 **Tech Stack:** Flutter, BLoC, GetIt, SharedPreferences, HTTP, FPDart
+
+**Repository:** [github.com/shehabs-dev/flutter-clean-architecture-posts](https://github.com/shehabs-dev/flutter-clean-architecture-posts)
 
 ---
 

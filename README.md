@@ -11,13 +11,13 @@
 
 ### 👨‍💻 About Me
 
-Flutter developer specializing in building scalable, maintainable, and production-ready cross-platform applications with Flutter.
+Flutter developer specializing in building scalable, maintainable, and production-ready cross-platform applications.
 
 My primary expertise is Flutter development using Clean Architecture, BLoC, Firebase, and offline-first design. I enjoy solving engineering challenges, designing reusable software, and delivering intuitive user experiences.
 
-In addition to mobile development, I have foundational experience with Python and machine learning through hands-on projects involving data preprocessing, exploratory data analysis, regression models, and model evaluation using Pandas, NumPy, and scikit-learn.
+Alongside mobile development, I have foundational knowledge of Python, artificial intelligence, and machine learning gained through university coursework and practical projects. I'm interested in applying these technologies where they add real value to mobile applications.
 
-I'm continuously expanding my knowledge in software architecture, AI integration for mobile applications, and high-performance Flutter development.
+I'm currently focused on strengthening my software engineering skills and plan to expand into backend development with Python to build secure APIs and become a full-stack developer.
 
 ### 💡 Core Expertise
 
@@ -29,12 +29,12 @@ I'm continuously expanding my knowledge in software architecture, AI integration
 - Dependency Injection & Modular Architecture
 - Responsive UI Development
 
-### Additional Experience
+### 📚 Additional Experience
 
-- Python
-- Data Analysis (Pandas, NumPy)
-- Machine Learning (scikit-learn)
-- TensorFlow Lite Integration
+- Python Programming
+- Data Analysis with Pandas and NumPy
+- Machine Learning Fundamentals using scikit-learn
+- TensorFlow Lite Integration in Flutter
 - Streamlit
 
 ---
@@ -123,10 +123,11 @@ Flutter application built to demonstrate Clean Architecture principles and scala
 ---
 
 ## 🎯 Future Goals
-- Deepen expertise in Flutter  
-- Contribute to open-source Flutter projects  
-- Learn native Android development with Kotlin
-- Deepen my understanding of machine learning and AI integration in mobile applications
+
+- Deepen expertise in Flutter and software architecture
+- Contribute to open-source Flutter projects
+- Learn backend development with Python and REST API design
+- Contribute across the full application stack by building backend services with Python
 
 ---
 

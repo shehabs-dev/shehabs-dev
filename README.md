@@ -5,18 +5,19 @@
 
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&height=100&lines=Flutter+Developer;ML+Engineer;Clean+Architecture;Building+Scalable+Apps"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&height=100&lines=Flutter+Developer;Clean+Architecture;State+Management+with+BLoC"></a>
 
 ---
 
 ### 👨‍💻 About Me
-Full-stack developer focused on building scalable, production-ready applications with clean architecture principles.  
-I specialize in **Flutter mobile development**, **BLoC state management**, and **machine learning** for real-world applications.
+Flutter developer focused on building scalable and production-ready applications.  
+I specialize in clean architecture, BLoC state management, and writing high-quality code.
+
+I also have foundational experience with Python and have explored machine learning fundamentals using NumPy, Pandas, and scikit-learn through data analysis projects.
 
 - Building scalable mobile applications with Flutter  
 - Applying clean architecture principles in real projects  
 - Designing Firebase-backed and offline-first apps  
-- Developing machine learning models with Python (NumPy, Pandas, scikit-learn)  
 - Improving code readability, structure, and long-term maintainability  
 
 ---
@@ -25,19 +26,18 @@ I specialize in **Flutter mobile development**, **BLoC state management**, and *
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **[Clean Architecture Posts](https://github.com/shehabs-dev/flutter-clean-architecture-posts)** | Production-ready Flutter example of clean architecture principles. Demonstrates BLoC state management, repository pattern, dependency injection, and offline support with local caching. | Flutter, BLoC, GetIt, SharedPreferences, HTTP |
-| **[Flutter Notes](https://github.com/shehabs-dev/flutter-notes)** | Feature-rich notes application with local SQLite storage, rich text editing with Flutter Quill, staggered grid UI, and clean architecture patterns. Multi-language support with intl. | Flutter, BLoC, Sqflite, Flutter Quill, Go Router, GetIt |
 | **[MyMap](https://github.com/shehabs-dev/flutter-map-app)** | Interactive map viewer with real-time location tracking, place search autocomplete, and marker management. Features live device location, interactive OpenStreetMap tiles, and Geoapify integration. | Flutter, Geolocator, OpenStreetMap, Geoapify API, Lottie |
 | **[Car Price Prediction](https://github.com/shehabs-dev/car-price-prediction-ml)** | End-to-end ML project with Streamlit web UI for interactive car price predictions. Includes EDA, feature engineering, model training with scikit-learn, and reproducible pipeline with joblib artifacts. | Python, Pandas, NumPy, scikit-learn, Streamlit, Jupyter |
+| **[Clean Architecture Posts](https://github.com/shehabs-dev/flutter-clean-architecture-posts)** | Production-ready Flutter example of clean architecture principles. Demonstrates BLoC state management, repository pattern, dependency injection, and offline support with local caching. | Flutter, BLoC, GetIt, SharedPreferences, HTTP |
+| **[Flutter Notes](https://github.com/shehabs-dev/flutter-notes)** | Feature-rich notes application with local SQLite storage, rich text editing with Flutter Quill, staggered grid UI, and clean architecture patterns. Multi-language support with intl. | Flutter, BLoC, Sqflite, Flutter Quill, Go Router, GetIt |
 
 ---
 
 ### 🎯 Future Goals
-- Deepen expertise in Flutter and mobile development  
-- Contribute to open-source Flutter and ML projects  
+- Deepen expertise in Flutter  
+- Contribute to open-source Flutter projects  
 - Build advanced cross-platform applications using clean architecture  
 - Explore integrating machine learning into mobile apps for data-driven features  
-- Develop production-grade ML pipelines with MLOps best practices  
 
 ---
 
@@ -61,7 +61,7 @@ I specialize in **Flutter mobile development**, **BLoC state management**, and *
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
 ![Sqflite](https://img.shields.io/badge/Sqflite-02569B?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### 📊 Machine Learning & Data
+#### 📊 Machine Learning & Data (Foundational)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -85,8 +85,7 @@ I specialize in **Flutter mobile development**, **BLoC state management**, and *
 - Clean Architecture (separation of concerns, maintainability, scalability)  
 - MVVM (Model–View–ViewModel)  
 - Repository Pattern with Dependency Injection  
-- BLoC Pattern for State Management  
-- Machine Learning Pipelines & Data Processing
+- BLoC Pattern for State Management
 
 ---
 

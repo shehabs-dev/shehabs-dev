@@ -10,55 +10,111 @@
 ---
 
 ### 👨‍💻 About Me
-Flutter developer with 1.5+ years of hands-on experience building scalable, production-ready applications.
-I specialize in clean architecture, BLoC state management, and writing high-quality, maintainable code.
 
-I also have foundational experience with Python and have explored machine learning fundamentals using NumPy, Pandas, and scikit-learn through data analysis projects.
+Flutter developer specializing in building scalable, maintainable, and production-ready cross-platform applications with Flutter.
 
-- Building scalable mobile applications with Flutter  
-- Applying clean architecture principles in real projects  
-- Designing Firebase-backed and offline-first apps  
-- Improving code readability, structure, and long-term maintainability  
+My primary expertise is Flutter development using Clean Architecture, BLoC, Firebase, and offline-first design. I enjoy solving engineering challenges, designing reusable software, and delivering intuitive user experiences.
+
+In addition to mobile development, I have foundational experience with Python and machine learning through hands-on projects involving data preprocessing, exploratory data analysis, regression models, and model evaluation using Pandas, NumPy, and scikit-learn.
+
+I'm continuously expanding my knowledge in software architecture, AI integration for mobile applications, and high-performance Flutter development.
+
+### 💡 Core Expertise
+
+- Cross-platform Flutter Development
+- Clean Architecture & SOLID Principles
+- BLoC State Management
+- Firebase Authentication, Firestore & Storage
+- Offline-first Application Design
+- Dependency Injection & Modular Architecture
+- Responsive UI Development
+
+### Additional Experience
+
+- Python
+- Data Analysis (Pandas, NumPy)
+- Machine Learning (scikit-learn)
+- TensorFlow Lite Integration
+- Streamlit
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🌱 PlantDoctor
+
+Production-ready Flutter application for AI-powered plant disease diagnosis, combining on-device TensorFlow Lite inference with Retrieval-Augmented Generation (RAG) to provide intelligent recommendations while supporting offline-first workflows.
+
+**Highlights**
+- Clean Architecture with feature-first modular design and dependency injection
+- On-device TensorFlow Lite inference with optimized AI pipeline
+- Offline-first architecture with encrypted local storage and automatic cloud synchronization
+- AI-assisted disease diagnosis using TensorFlow Lite and Retrieval-Augmented Generation (RAG)
+- Firebase Authentication, Firestore, Storage, and robust error handling
+
+**Tech Stack:** Flutter · BLoC · Firebase · TensorFlow Lite · Hive (AES) · Dio · GetIt · GoRouter
+
+[Repository](https://github.com/shehabs-dev/plantdoctor-app)
+
+---
+
+### 🚗 Car Price Prediction
+
+Machine learning project for predicting used car prices through data preprocessing, feature engineering, regression modeling, and an interactive Streamlit application.
+
+**Highlights**
+- Complete machine learning workflow from preprocessing to deployment
+- Feature engineering and regression model evaluation
+- Performance analysis using R², RMSE, and MAE
+- Interactive Streamlit interface for real-time predictions
+
+**Tech Stack:** Python · Pandas · NumPy · Scikit-learn · Streamlit · Matplotlib
+
+[Repository](https://github.com/shehabs-dev/car-price-prediction-ml)
+
+---
+
 ### 🗺️ MyMap
-Flutter map application with live location tracking, place search, and interactive markers using OpenStreetMap.
 
-**Highlights:**
-- Real-time geolocation and permission handling
-- Geoapify integration for place search
-- Responsive cross-platform UI
+Flutter map application featuring live location tracking, place search, and interactive mapping built on OpenStreetMap.
 
-**Tech Stack:** Flutter · Geolocator · flutter_map · Geoapify API
+**Highlights**
+- Real-time GPS location tracking
+- Interactive maps and custom markers
+- Place search powered by Geoapify
+- Responsive cross-platform experience
+
+**Tech Stack:** Flutter · flutter_map · Geolocator · Geoapify API
 
 [Repository](https://github.com/shehabs-dev/flutter-map-app)
 
 ---
 
-### 📝 Flutter Notes
-A notes application built with Clean Architecture, local persistence, and a scalable Flutter design system.
+### Flutter Notes
 
-**Highlights:**
-- Feature-based architecture with BLoC and dependency injection
-- SQLite storage with rich text editing
-- Centralized theming and localization system
+Feature-rich notes application demonstrating scalable Flutter architecture with local persistence and reusable UI components.
 
-**Tech Stack:** Flutter · BLoC · Sqflite · GetIt · Go Router · Flutter Quill
+**Highlights**
+- Feature-first Clean Architecture
+- BLoC state management and dependency injection
+- SQLite offline storage with rich text editing
+- Reusable theming and localization support
+
+**Tech Stack:** Flutter · BLoC · Sqflite · Flutter Quill · GetIt · GoRouter
 
 [Repository](https://github.com/shehabs-dev/flutter-notes)
 
 ---
 
-### 🏗️ Clean Architecture Posts
-A Flutter project focused on applying Clean Architecture principles and maintainable software design.
+### Flutter Clean Architecture Posts
 
-**Highlights:**
-- Separation of presentation, domain, and data layers
-- Repository pattern with use cases
-- Offline caching and network state handling
+Flutter application built to demonstrate Clean Architecture principles and scalable application design.
+
+**Highlights**
+- Presentation, Domain, and Data layer separation
+- Repository pattern with Use Cases
+- Offline caching and API integration
+- Maintainable and testable project structure
 
 **Tech Stack:** Flutter · BLoC · GetIt · SharedPreferences · HTTP · FPDart
 
@@ -66,22 +122,22 @@ A Flutter project focused on applying Clean Architecture principles and maintain
 
 ---
 
-### 🎯 Future Goals
+## 🎯 Future Goals
 - Deepen expertise in Flutter  
 - Contribute to open-source Flutter projects  
 - Learn native Android development with Kotlin
-- Explore integrating machine learning into mobile apps for data-driven features  
+- Deepen my understanding of machine learning and AI integration in mobile applications
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shehab-saber-a78746355)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=shehab.saber.dev@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201116501265)
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 #### 💻 Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
@@ -117,12 +173,12 @@ A Flutter project focused on applying Clean Architecture principles and maintain
 
 ---
 
-### 🏗️ Software Architecture & Patterns
+## 🏗️ Software Architecture & Patterns
 - Clean Architecture (separation of concerns, maintainability, scalability)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
